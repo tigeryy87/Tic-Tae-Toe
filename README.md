@@ -1,6 +1,8 @@
 # Project 4: Tic Tac Toe!
 # Created by Tiger Chen (Yin-Lin)
 
+https://user-images.githubusercontent.com/24702429/228664779-a631c8ac-3200-4f30-8d5e-bc0ed0b182d8.mov
+
 ## Successfully create a application called "Tic Tac Toe!" that designed for two players to play against each other on a single device.
 
 ## References:
